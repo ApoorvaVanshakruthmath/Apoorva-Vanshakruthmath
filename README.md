@@ -9,7 +9,7 @@
 - 📫 How to reach me **apoorvavanshakruthmath@gmail.com**
 
 - ⚡ **No hugs and dates,Only bugs and updates**
-- 🗿 **Debugging my Coding Life**
+- 🗿 **There are two ways to write error-free programs; only the third works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
